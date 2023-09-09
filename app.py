@@ -20,7 +20,7 @@ df_with_hyperlinks['player_id_link'] = df_with_hyperlinks['player_id'].apply(
 
 # Initialize the Dash app
 app = Dash(__name__)
-
+server = app.server
 # Define the app layout
 app.layout = html.Div([
     html.Div([
