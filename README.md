@@ -1,1 +1,1 @@
-# Statistiken-der-Fu-ballspieler
+# Statistiken-der-Fuß-ballspieler
